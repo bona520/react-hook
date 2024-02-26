@@ -4,7 +4,7 @@ import TodoListUseReducer from './TodoListUseReducer'
 
 function App() {
   return (
-    <div className="bg-gray-800 h-screen w-screen">
+    <div className="bg-gray-800 ">
 
       {/* <UseReducer /> */}
       <TodoListUseReducer />
